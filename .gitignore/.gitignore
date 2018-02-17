@@ -1,13 +1,12 @@
-#EXTM3U
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<item>
+<title>1º Telefilme / Hercules e as mulheres amazonas</title>
+[vimeo]https://player.vimeo.com/video/206290433[/vimeo]
+<thumbnail>http://3.bp.blogspot.com/-u5l2H4-XvZA/VILEjscB3zI/AAAAAAAAE5E/DBuSDbl-qeE/s1600/3381Hercules_season2_EN.jpg</thumbnail>
+<info>1º Telefilme / Hercules e as mulheres amazonas</info>
+</item>
+ 
 
-################################################################################# VIPS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/u8eRrGT.png" group-title="CANAIS VIPS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS VIPS[/COLOR][/B]
-here
 
-#EXTINF: -1, hercules TV
-https://player.vimeo.com/video/206290433
-#EXTINF: -1, ??????? ????
-http://185.231.160.35/267/2/index.m3u8
-#EXTINF: -1, Crepúsculo
-http://185.231.160.35/362/2/index.m3u8
